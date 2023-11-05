@@ -1,0 +1,29 @@
+Questions
+"Why do APIs have rate limits, and what is their primary purpose?"
+How do rate limits help protect against abuse and misuse of APIs?
+How do rate limits assist OpenAI in managing the load on its infrastructure?
+"What are the different types of rate limits, and how are they measured?"
+"What are the usage tiers for OpenAI's API rate limits, and how do they differ?"
+"What happens if I exceed my API rate limit, and how can I avoid rate limit errors?"
+What are some error mitigation strategies for handling rate limits in API requests?
+How can I implement exponential backoff to avoid rate limit errors in my API requests?
+How can I effectively batch requests to make the most of API rate limits?
+What are the best practices for maximizing the effectiveness of GPTs in different applications?
+What strategies and tactics can be used to improve the results obtained from GPT models?
+How can I fine-tune my usage of GPT-4 to get superior results in my projects?
+What are some practical ways to automate the evaluation of GPT model outputs?
+What is the significance of using a large sample size in GPT system evaluations?
+How can automated evaluations with objective criteria be employed in GPT system optimization?
+"What role do humans play in evaluating GPT system outputs, and how does it differ from automated evaluations?"
+How can developers create plugins for ChatGPT to enhance its functionality?
+"What types of actions can ChatGPT perform using plugins, and can you provide some examples?"
+"What is the status of ChatGPT plugins during the beta phase, and how can developers gain access to them?"
+"What is the purpose of the plugin manifest file, and where should it be hosted?"
+How does ChatGPT consume the manifest file and make calls to the developer-defined APIs?
+"What role does the AI model play in the plugin system, and how does it interact with APIs?"
+What is the recommended approach for developers when exposing endpoints in a plugin?
+How do users activate and use plugins within the ChatGPT UI?
+Are there specific Python libraries required for transcribing audio with the Whisper API?
+What audio file formats are supported for transcription with the Whisper API in Python?
+Can you explain the difference between the transcriptions and translations endpoints in the Whisper API?
+How can I improve the accuracy of audio transcriptions when using the Whisper API?
