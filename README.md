@@ -2,7 +2,7 @@
 #### OpenAI DocQA: Question Answering on OpenAI Documentation
 
 ##### Project Description:
-This project enables users to scrape OpenAI documentation and perform question answering tasks using the extracted data. It aims to provide a seamless experience for retrieving information from OpenAI's extensive documentation.
+This objective of this project is to perform question answering tasks on OpenAI docuemntation. 
 
 The described process involves using content retrieved from the Apify actor via an API for a Question & Answering system. Here's a breakdown of the steps:
 
